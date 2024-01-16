@@ -1,4 +1,5 @@
-## Using Jest(Programming with JavaScript by meta, this repo is just a brief about jest usage which I learnt from this course)
+## Programming with JavaScript by meta, this repo is just a brief about jest which was just a part out of this course.
+
 ## What is Jest?
 Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly. Jest is well-documented, requires little configuration and can be extended to match your requirements.
 ### How to use
@@ -11,7 +12,7 @@ Jest is a JavaScript testing framework designed to ensure correctness of any Jav
 7) For further pratice see my addFive.test.js(used for testing my code) and addFive.js
 
 
-#### How to run the test command
+## How to run the test command
 npm run test
 
 follow this link for jest official page https://jestjs.io/
